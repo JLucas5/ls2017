@@ -13,7 +13,7 @@
 | Aula  | nota | link | comentário  |
 |:-:|:-:|---|:-:|
 | 1  |  1 | https://github.com/JLucas5/ls2017  |   |
-| 2  |  1 | https://github.com/JLucas5/ls2017/tree/master/Atividades%20GitHub  |  Cada lista foi resolvida em um arquivo sepárado de mesmo nome |
+| 2  |  1 | https://github.com/JLucas5/ls2017/tree/master/Atividades%20GitHub  |   |
 | 3  |  1 | https://github.com/JLucas5/ls2017/wiki/Comandos  |   |
 | 4  |  1 | https://github.com/JLucas5/ls2017/wiki/Enviroment  |   |
 | 5  |  1 | https://github.com/JLucas5/ls2017/wiki/Aula-30-08 |   |
@@ -21,10 +21,10 @@
 | 7  |  1 | https://github.com/JLucas5/ls2017/wiki/Aula-13-09  |   |
 | 8  |  1 | https://github.com/JLucas5/ls2017/wiki/TecnologiasThoughtWorks  |   |
 | 9  |  1 | https://github.com/JLucas5/ls2017/wiki/analise-estatica  |   |
-| 10  |  1 | https://github.com/JLucas5/ls2017/tree/master/javancss  | Na pasta estão salvos todos os arquivos gerados pelo javancss  |
+| 10  |  1 | https://github.com/JLucas5/ls2017/tree/master/javancss  |   |
 | 11  |  1 | https://github.com/JLucas5/ls2017/wiki/Arquitetura  |   |
 | 12  |  1 | https://github.com/JLucas5/ls2017/wiki/visualvm  |   |
 | 13  |  1 | https://github.com/JLucas5/ls2017/wiki/sonarcloud  |   |
 | 14  |  1 | https://github.com/JLucas5/ls2017/wiki/Softvis3d  |   |
-| 15  |  1 | https://github.com/JLucas5/ls2017/edit/master/README.md  |  Redundante? |
+| 15  |  1 | https://github.com/JLucas5/ls2017/edit/master/README.md  |   |
 | 16  |   |   |   |
